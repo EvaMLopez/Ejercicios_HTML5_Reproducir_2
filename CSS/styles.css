@@ -1,6 +1,6 @@
 
-@import url(/table.css);
-@import url(/words.css);
+@import url(/CSS/table.css);
+@import url(/CSS/table.css);
 body {
     margin: 15px;
     max-width: 600px;
